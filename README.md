@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `student` at [UTN General Pacheco](https://www.frgp.utn.edu.ar/).
+- :school: I graduated as a `University Technician in Programming` from [UTN General Pacheco](https://www.frgp.utn.edu.ar/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer:  I am a backend developer in `Java Spring Boot`.
 - :student: I’m currently learning `Software Engineering`.
