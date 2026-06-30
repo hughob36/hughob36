@@ -77,11 +77,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
-## 🐍 Snake
-
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg" style="width: 100%; max-width: 720px; object-fit: cover; object-position: center; margin: 0 auto; display: block;">
-</div>
-
-
