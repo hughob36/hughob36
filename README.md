@@ -18,6 +18,25 @@
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
 <br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+- 🎓 **Academic Background:** University Technician in Programming from [UTN-FRGP](https://www.frgp.utn.edu.ar/).
+- 💻 **Tech Stack:** Specialized in **Java Backend** development with **Spring Boot** and **Microservices** architecture.
+- 🛠 **Engineering Mindset:** Committed to clean code, robust testing (JUnit, Mockito), and automated CI/CD workflows.
+- 🚀 **Goals:** Passionate about solving complex problems through scalable solutions, with a clear roadmap toward **Solutions Architecture**.
+- 💡 **Always Evolving:** Dedicated to mastering backend engineering practices and cloud-native development.
+- 💼 **Status:** Open to **remote** opportunities as a Java Backend Developer.
+
+<br>
+
+
+
+
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:hugo.boca16@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
